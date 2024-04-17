@@ -31,18 +31,9 @@ file:///C:/practica/practica%201er/1%20parcial/lista%20de%20tarea.html
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:gioudi/repository.git
+   --link de repositorio de "lista de tareas"
+ [  git clone git@github.com:gioudi/repository.git](https://github.com/Betobarajas10/lista-de-tareas/commit/3d1116496140d7cdaccca0b4cacbebd18541bfbf)
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-   ```sh
-   yarn install
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## Autor 
